@@ -1,0 +1,25 @@
+CourseID,CourseName,CourseCategory,CourseType,Target,Actual,Predicted,SelectedModel
+CR00001,Python Basics,Programming,Paid,demand,61.0,55.395833333333336,Mean Baseline
+CR00006,Graphic Design Basics,Design,Paid,demand,49.0,55.395833333333336,Mean Baseline
+CR00037,Scrum Essentials,Project Management,Free,demand,42.0,55.395833333333336,Mean Baseline
+CR00046,AI for Beginners,Artificial Intelligence,Paid,demand,39.0,55.395833333333336,Mean Baseline
+CR00014,Sales Mastery,Business,Free,demand,62.0,55.395833333333336,Mean Baseline
+CR00055,Full-Stack Web Development,Web Development,Paid,demand,64.0,55.395833333333336,Mean Baseline
+CR00034,Data Encryption,Cybersecurity,Paid,demand,56.0,55.395833333333336,Mean Baseline
+CR00049,Deep Learning,Artificial Intelligence,Paid,demand,59.0,55.395833333333336,Mean Baseline
+CR00013,Finance for Startups,Business,Free,demand,48.0,55.395833333333336,Mean Baseline
+CR00058,Social Media Strategy,Digital Marketing,Free,demand,71.0,55.395833333333336,Mean Baseline
+CR00047,Natural Language Processing,Artificial Intelligence,Paid,demand,54.0,55.395833333333336,Mean Baseline
+CR00051,HTML & CSS,Web Development,Paid,demand,55.0,55.395833333333336,Mean Baseline
+CR00001,Python Basics,Programming,Paid,revenue,28809.079999999998,23874.64156158118,Ridge Regression
+CR00006,Graphic Design Basics,Design,Paid,revenue,13542.130000000001,14309.111110714453,Ridge Regression
+CR00037,Scrum Essentials,Project Management,Free,revenue,0.0,448.0602845659737,Ridge Regression
+CR00046,AI for Beginners,Artificial Intelligence,Paid,revenue,9675.9,13429.45272896629,Ridge Regression
+CR00014,Sales Mastery,Business,Free,revenue,0.0,593.6628234488858,Ridge Regression
+CR00055,Full-Stack Web Development,Web Development,Paid,revenue,3668.48,3684.03795573443,Ridge Regression
+CR00034,Data Encryption,Cybersecurity,Paid,revenue,22078.559999999998,19365.50893554178,Ridge Regression
+CR00049,Deep Learning,Artificial Intelligence,Paid,revenue,24515.09,21165.189377064875,Ridge Regression
+CR00013,Finance for Startups,Business,Free,revenue,0.0,791.4258611387995,Ridge Regression
+CR00058,Social Media Strategy,Digital Marketing,Free,revenue,0.0,113.05054223306706,Ridge Regression
+CR00047,Natural Language Processing,Artificial Intelligence,Paid,revenue,4837.860000000001,5910.406235939331,Ridge Regression
+CR00051,HTML & CSS,Web Development,Paid,revenue,2083.95,3163.0460743391877,Ridge Regression

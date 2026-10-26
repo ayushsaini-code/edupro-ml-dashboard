@@ -1,0 +1,11 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+_backup*/
+app_backup.py
+EduPro_*Overlay.zip
+*.log
+.env
+.streamlit/secrets.toml
+.DS_Store
